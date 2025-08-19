@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5c203b32.css",
-    "main.js": "/portfolio/static/js/main.72b1ae55.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Prajal_Dixit_Resume.pdf": "/portfolio/static/media/Prajal_Dixit_Resume.afdde7b69b12b7bc11c1.pdf",
-    "static/media/photo.jpeg": "/portfolio/static/media/photo.c3ec45fed5285a4ceb18.jpeg",
-    "static/media/shopping.jpeg": "/portfolio/static/media/shopping.5450b758f1188b90fe98.jpeg",
-    "static/media/zip.jpeg": "/portfolio/static/media/zip.8b2c116c1c3276ad54b1.jpeg",
-    "static/media/mobile.jpeg": "/portfolio/static/media/mobile.09d19fa48080800a3b7f.jpeg",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfolio/index.html",
-    "main.5c203b32.css.map": "/portfolio/static/css/main.5c203b32.css.map",
-    "main.72b1ae55.js.map": "/portfolio/static/js/main.72b1ae55.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.4e558664.css",
+    "main.js": "/Portfolio/static/js/main.d7e9b5f4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Prajal_Dixit_Resume.pdf": "/Portfolio/static/media/Prajal_Dixit_Resume.afdde7b69b12b7bc11c1.pdf",
+    "static/media/photo.jpeg": "/Portfolio/static/media/photo.c3ec45fed5285a4ceb18.jpeg",
+    "static/media/shopping.jpeg": "/Portfolio/static/media/shopping.5450b758f1188b90fe98.jpeg",
+    "static/media/zip.jpeg": "/Portfolio/static/media/zip.8b2c116c1c3276ad54b1.jpeg",
+    "static/media/mobile.jpeg": "/Portfolio/static/media/mobile.09d19fa48080800a3b7f.jpeg",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
+    "main.d7e9b5f4.js.map": "/Portfolio/static/js/main.d7e9b5f4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c203b32.css",
-    "static/js/main.72b1ae55.js"
+    "static/css/main.4e558664.css",
+    "static/js/main.d7e9b5f4.js"
   ]
 }
