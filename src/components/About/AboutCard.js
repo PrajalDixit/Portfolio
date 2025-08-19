@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Prajal Dixit </span>
+            Hi, I'm <span className="purple">Prajal Dixit </span>
             from <span className="purple"> Bhopal, India.</span>
             <br />
             I am currently employed as a Solution Engineer at Deqode.
             <br />
-            I have completed Btech from shri vaishnav vidyapeeth vishwavidyalaya.
+            I have completed Btech from Shri Vaishnav Vidyapeeth Vishwavidyalaya.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -28,9 +28,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Strive to build things that make a difference !"{" "}
           </p>
-          <footer className="blockquote-footer">Prajaldixit</footer>
+          <footer className="blockquote-footer">Prajal Dixit</footer>
         </blockquote>
       </Card.Body>
     </Card>
