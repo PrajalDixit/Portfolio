@@ -5,27 +5,55 @@
   <meta charset="utf-8" />
   <link rel="icon" href="%PUBLIC_URL%/favicon.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#f8f8f3" />
-  <meta name="description" content="Prajal Dixit is a React Native engineer building thoughtful mobile experiences across healthcare, commerce, and wellness." />
+  <meta name="theme-color" content="#fafaf7" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0d0e11" media="(prefers-color-scheme: dark)" />
+  <meta name="description" content="Prajal Dixit is a React Native engineer in Bengaluru with 4+ years shipping iOS and Android apps across healthcare, commerce, and wellness. Open to full-time roles." />
+  <link rel="canonical" href="https://prajaldixit.github.io/Portfolio/" />
   <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-  <title>Prajal Dixit | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" />
+  <title>Prajal Dixit · React Native Engineer</title>
 
-  <!-- Google / Search Engine Tags -->
-  <meta itemprop="name" content="Prajal Dixit | Portfolio">
-  <meta itemprop="description" content="React Native engineer building thoughtful mobile experiences across healthcare, commerce, and wellness.">
-  <meta itemprop="image" content="%PUBLIC_URL%/favicon.png">
+  <!-- Apply the saved or system theme before first paint to avoid a light flash in dark mode -->
+  <script>
+    (function () {
+      var theme;
+      try { theme = localStorage.getItem("prajal-theme"); } catch (e) {}
+      if (!theme) theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      document.documentElement.dataset.theme = theme;
+    })();
+  </script>
 
-  <!-- Facebook Meta Tags -->
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Prajal Dixit | Portfolio">
-  <meta property="og:description" content="React Native engineer building thoughtful mobile experiences across healthcare, commerce, and wellness.">
-  <meta property="og:image" content="%PUBLIC_URL%/favicon.png">
+  <!-- Open Graph / LinkedIn / WhatsApp -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://prajaldixit.github.io/Portfolio/" />
+  <meta property="og:title" content="Prajal Dixit · React Native Engineer" />
+  <meta property="og:description" content="4+ years building and shipping iOS and Android apps across healthcare, commerce, and wellness. Open to full-time roles." />
+  <meta property="og:image" content="https://prajaldixit.github.io/Portfolio/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
 
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Prajal Dixit | Portfolio">
-  <meta name="twitter:description" content="React Native engineer building thoughtful mobile experiences across healthcare, commerce, and wellness.">
-  <meta name="twitter:image" content="%PUBLIC_URL%/favicon.png">
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Prajal Dixit · React Native Engineer" />
+  <meta name="twitter:description" content="4+ years building and shipping iOS and Android apps across healthcare, commerce, and wellness. Open to full-time roles." />
+  <meta name="twitter:image" content="https://prajaldixit.github.io/Portfolio/og-image.png" />
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Prajal Dixit",
+      "jobTitle": "React Native Engineer",
+      "url": "https://prajaldixit.github.io/Portfolio/",
+      "worksFor": { "@type": "Organization", "name": "MFine" },
+      "address": { "@type": "PostalAddress", "addressLocality": "Bengaluru", "addressCountry": "IN" },
+      "alumniOf": "Shri Vaishnav Vidyapeeth Vishwavidyalaya",
+      "knowsAbout": ["React Native", "TypeScript", "JavaScript", "Redux", "iOS", "Android"],
+      "sameAs": ["https://www.linkedin.com/in/prajaldixit/", "https://github.com/prajaldixit"]
+    }
+  </script>
 </head>
 
 <body>

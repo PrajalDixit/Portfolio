@@ -1,6 +1,6 @@
 {
   "short_name": "Prajal",
-  "name": "Prajal Dixit Portfolio",
+  "name": "Prajal Dixit · React Native Engineer",
   "icons": [
     {
       "src": "favicon.png",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#4f46e5",
+  "background_color": "#fafaf7"
 }
